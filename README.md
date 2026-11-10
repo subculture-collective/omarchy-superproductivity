@@ -444,7 +444,7 @@ The final commands prove that the committed sound and synthetic previews match t
 
 ## Contributing
 
-Open pull requests on GitHub against `main`. CI runs the release file check, the Python and Node tests, plugin validation, QML lint against Omarchy, and the sound and preview regeneration checks on every pull request. [CONTRIBUTING.md](CONTRIBUTING.md) covers what to include in a change and how to test mutation and Quick Add changes. Report security problems as described in [SECURITY.md](SECURITY.md).
+Report bugs and request features in [GitHub issues](https://github.com/subculture-collective/omarchy-superproductivity/issues). Send code as pull requests on GitHub against `main`. CI runs the release file check, the Python and Node tests, plugin validation, QML lint against Omarchy, and the sound and preview regeneration checks on every pull request. [CONTRIBUTING.md](CONTRIBUTING.md) covers what to include in a change and how to test mutation and Quick Add changes. Report security problems as described in [SECURITY.md](SECURITY.md).
 
 ## License
 
